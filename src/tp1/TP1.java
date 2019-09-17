@@ -7,7 +7,7 @@ package tp1;
 
 /**
  *
- * @author slagarde
+ * @author LeoCarriereJFC
  */
 public class TP1 {
 //Bonsoir ceci est un commentaire
